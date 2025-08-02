@@ -1,6 +1,6 @@
 # Dead-Internet-Theory
 Dead Internet Theory. Discord Selfbot
-# Useage
+# Usage
 ```
 npm i
 node bot.js
